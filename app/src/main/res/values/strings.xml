@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="movie_title">Mother!</string>
+    <string name="movie_rating">PG13 | Sci-Fi | $12.99</string>
+    <string name="movie_intro">A couple\'s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence. From filmmaker Darren Aronofsky (Black Swan, Requiem for a Dream), mother! stars Jennifer Lawrence, Javier Bardem, Ed Harris and Michelle Pfeiffer in this riveting psychological thriller about love, devotion and sacrifice.</string>
+    <string name="empty">" "</string>
+    <string name="info">info</string>
+    <string name="watch_button">Watch</string>
+    <string name="save_button">Save</string>
+    <string name="header_photo">header photo</string>
+    <string name="movie_poster_desc">movie poster</string>
+    <string name="list_button">list</string>
+    <string name="ratings_button">ratings</string>
+    <string name="call_button">call</string>
+    <string name="mail_button">mail</string>
+    <string name="list_text">List</string>
+    <string name="ratings_text">Review</string>
+    <string name="call_text">Call</string>
+    <string name="mail_text">Email</string>
+    <string name="bookmark_icon">bookmark</string>
+</resources>
